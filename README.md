@@ -12,5 +12,4 @@ Stacks-java-script
 
 # what is stack
 |1|[what is stack](#)
-
-
+![Image of Stack](./Stack/image1.png)

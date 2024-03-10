@@ -11,4 +11,4 @@ Stacks-java-script
 |  4  | [Using-stack-as-a-linked-List-implementation](#)                                                                                                                           |
 
 # what is stack
-![Image of Stack](./whatisStack/image1.png)
+![Image of Stack](./image1.png)

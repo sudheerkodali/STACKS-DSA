@@ -10,5 +10,14 @@ Stacks-java-script
 |  3  | [Using-stack-as-a-linked-list](#)                                                                                                                                          |
 |  4  | [Using-stack-as-a-linked-List-implementation](#)                                                                                                                           |
 
-# what is stack
+|  1  | [what is stack](#)  
+# 1.1 what is stack
 ![Image of Stack](./image1.png)
+
+# 1.2 stack explanation
+![Image of Stack](./image2.png)
+
+# 1.3 stack : LIFO
+![Image of Stack](./image3.png)
+
+

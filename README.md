@@ -9,3 +9,6 @@ Stacks-java-script
 |  2  | [Using-stack-as-an-array](#)                                                                                                                                               |
 |  3  | [Using-stack-as-a-linked-list](#)                                                                                                                                          |
 |  4  | [Using-stack-as-a-linked-List-implementation](#)                                                                                                                           |
+
+# what is stack
+|1|[!](#)

@@ -11,4 +11,6 @@ Stacks-java-script
 |  4  | [Using-stack-as-a-linked-List-implementation](#)                                                                                                                           |
 
 # what is stack
-|1|[!](#)
+|1|[what is stack](#)
+
+

@@ -20,4 +20,15 @@ Stacks-java-script
 # 1.3 stack : LIFO
 ![Image of Stack](./image3.png)
 
+|  2  | [Using-stack-as-an-array](#)   
 
+# 2.1 stack as array
+![Image of stack as an array](./image1.png)
+
+# 2.2 stack as array
+![Image of stack as an array](./image2.png)
+
+|  3  | [Using-stack-as-a-linked-list](#)   
+
+# 3.1 using as a linked list
+![using stack as a linked list](./image1.png)

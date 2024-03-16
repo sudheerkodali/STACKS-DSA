@@ -31,4 +31,4 @@ Stacks-java-script
 |  3  | [Using-stack-as-a-linked-list](#)   
 
 # 3.1 using as a linked list
-![using stack as a linked list](./image1.png)
+![using stack as a linked list](./StackasLinkedList/image1.png)

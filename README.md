@@ -32,3 +32,12 @@ Stacks-java-script
 
 # 3.1 using as a linked list
 ![using stack as a linked list](./StackasLinkedList/image1.png)
+
+| 4   |  [Using-stack-as-an-array](#)   
+
+# 4.1 usingStackanArray
+![Using-satckanarray](./usingStackanArray/image1.png)
+
+# 4.2 usingSrackanArray
+![Using-satckanarray](./usingStackanArray/image2.png)
+

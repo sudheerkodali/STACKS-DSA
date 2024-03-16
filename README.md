@@ -12,7 +12,7 @@ Stacks-java-script
 
 |  1  | [what is stack](#)  
 # 1.1 what is stack
-![Image of Stack](/image1.png)
+![Image of Stack](./whatisStack/image1.png)
 
 # 1.2 stack explanation
 ![Image of Stack](./image2.png)

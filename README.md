@@ -23,10 +23,10 @@ Stacks-java-script
 |  2  | [Using-stack-as-an-array](#)   
 
 # 2.1 stack as array
-![Image of stack as an array](./image1.png)
+![Image of stack as an array](./usingStackanArray/image1.png)
 
 # 2.2 stack as array
-![Image of stack as an array](./image2.png)
+![Image of stack as an array](./usingStackanArray/image2.png)
 
 |  3  | [Using-stack-as-a-linked-list](#)   
 

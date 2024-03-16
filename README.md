@@ -15,10 +15,10 @@ Stacks-java-script
 ![Image of Stack](./whatisStack/image1.png)
 
 # 1.2 stack explanation
-![Image of Stack](./image2.png)
+![Image of Stack](./whatisStack/image2.png)
 
 # 1.3 stack : LIFO
-![Image of Stack](./image3.png)
+![Image of Stack](./whatisStack/image3.png)
 
 |  2  | [Using-stack-as-an-array](#)   
 

@@ -25,12 +25,12 @@ Stacks-java-script
 
 # 1.2 stack explanation
 <p> For instance in Stack push[4] push[7] push[6] =>[4,7,6] </p>
-<p> Top () => 6 :Return TOP most element of the stack ( Top most means last element LIFO)
-    Pop () => 6 :POP: Pop from the stack (Come out of the Stack)
+<p> <li> Top () => 6 :Return TOP most element of the stack ( Top most means last element LIFO)</li>
+    <li> Pop () => 6 :POP: Pop from the stack (Come out of the Stack)</li>
 </p> 
-<p> Top () => 7 :Return TOP most element of the stack( top most means last element LIFO)
-    Pop () => 7 :POP: Pop from the stack (Come out of the Stack) </p>
-<p> Top () => 4 :Returns Top most element is '4' </p>   
+<p> <li> Top () => 7 :Return TOP most element of the stack( top most means last element LIFO)</li>
+    <li> Pop () => 7 :POP: Pop from the stack (Come out of the Stack) </p></li>
+<p> <li> Top () => 4 :Returns Top most element is '4' </li></p>   
 
 ![Image of Stack](./whatisStack/image2.png)
 

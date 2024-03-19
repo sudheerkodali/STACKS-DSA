@@ -17,7 +17,7 @@ Stacks-java-script
 <p> while implementing data types into 'Stack' we need to fallow this 4 points </p>
 <p><li>  PUSH: Insert into stack
    <li>   POP: Pop from the stack
-   <li>   TOP: Return TOP mosrr element of the stack( top most means last element LIFO)
+   <li>   TOP: Return TOP most element of the stack( top most means last element LIFO)
    <li>   SIZE: Return size of the stack </li></p>
    
   ![Image of Stack](./whatisStack/image1.png)

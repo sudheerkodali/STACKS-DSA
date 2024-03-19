@@ -35,6 +35,8 @@ Stacks-java-script
 ![Image of Stack](./whatisStack/image2.png)
 
 # 1.3 stack : LIFO
+<p> Stack Data types or elements comes as 'LIFO':LAST IN FIRST OUT' means LAST elemet comes out FIRST ,  as mentioned in the above diagram </p>
+
 ![Image of Stack](./whatisStack/image3.png)
 
 |  2  | [Using-stack-as-an-array](#)   

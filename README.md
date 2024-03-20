@@ -71,12 +71,20 @@ Stacks-java-script
              : top element = 5  <br>
              : top element = 30 <br>
              : top element = 10 <br>
+             
  ![Image of stack as an array](./usingStackanArray/image2.png)
  
 
 |  3  | [Using-stack-as-a-linked-list](#)   
 
 # 3.1 using as a linked list as a Stack
+<p> Linked list Stack represents in big O(1) </p>
+<li>O(1) <= push() <br>
+    O(1) <= pop()  <br>
+    O(1) <= Top()  <br>
+ </li>   
+ 
+   
 ![using stack as a linked list](./StackasLinkedList/image1.png)
 
 | 4   |  [Using-stack-as-an-array](#)   

@@ -71,13 +71,11 @@ Stacks-java-script
              : top element = 5  <br>
              : top element = 30 <br>
              : top element = 10 <br>
- 
-    
-
-    
-   
-   
-![Image of stack as an array](./usingStackanArray/image2.png)
+ ![Image of stack as an array](./usingStackanArray/image2.png)
+ <p> out-put </p>
+             : top element = 5  <br>
+             : top element = 30 <br>
+             : top element = 10 <br>
 
 |  3  | [Using-stack-as-a-linked-list](#)   
 

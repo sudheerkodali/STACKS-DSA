@@ -67,10 +67,11 @@ Stacks-java-script
    <br>
     <li> console.log('top element = ' + st[st.length - 1]);</li>
  </ol>
- <li> out put: top element = 5  <br>
-             : top element = 30 <br> 
-             : top element = 10 <br>
- </li>
+ out-put
+             : top element = 5  
+             : top element = 30 
+             : top element = 10 
+ 
     
 
     

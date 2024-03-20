@@ -69,8 +69,8 @@ Stacks-java-script
  </ol>
  <li> out put: top element = 5  <br>
              : top element = 30 <br> 
-             : top element = 10 </li>
- 
+             : top element = 10 <br>
+ </li>
     
 
     

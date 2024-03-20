@@ -30,7 +30,7 @@ Stacks-java-script
 </p> 
 <p> <li> Top () => 7 :Return TOP most element of the stack( top most means last element LIFO)</li>
     <li> Pop () => 7 :POP: Pop from the stack (Come out of the Stack) </p></li>
-<p> <li> Top () => 4 :Returns Top most element is '4' </li></p>   
+    <li> Top () => 4 :Returns Top most element is '4' </li></p>   
 
 ![Image of Stack](./whatisStack/image2.png)
 

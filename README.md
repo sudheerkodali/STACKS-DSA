@@ -42,11 +42,12 @@ Stacks-java-script
 |  2  | [Using-stack-as-an-array](#)   
 
 # 2.1 stack as array
-<p> what we are creating at the stack we are inserting at the end of the array </p>
-<p> Similarly, when we are inserting at the end(top) and delection at end stack(pop) Top most element of an array we are inserted at the end of the array  </p>
+<p><li> what we are creating at the stack we are inserting at the end of the array 
+<li> Similarly, when we are inserting at the end(top) and delection at end stack(pop) Top most element of an array we are inserted at the end of the array</li>
 <p> Insertion at top = inserction at end of the Array </P>
 <p> Delection at top = pop of operation of an Array </p>
 <p> Top most element means last element of an array </p> 
+
 ![Image of stack as an array](./usingStackanArray/image1.png)
 
 # 2.2 stack as array

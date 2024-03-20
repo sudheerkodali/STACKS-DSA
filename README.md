@@ -54,12 +54,15 @@ Stacks-java-script
 <p> programming implementation on stack </p>
 <ol>
     <li>let st = [];</li> 
+   <br>
     <li> st.push(10);</li>
     <li> st.push(30);</li>
     <li> st.push(5); </li> 
+   <br>
     <li> console.log('top element = ' + st[st.length - 1]);</li>
     <li> st.pop(); </li>
  </ol>
+ <li> out put: 5,30</li>
  
     
 

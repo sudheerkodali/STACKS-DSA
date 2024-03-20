@@ -51,7 +51,7 @@ Stacks-java-script
 ![Image of stack as an array](./usingStackanArray/image1.png)
 
 # 2.2 stack as array
-<p> 
+<p> programming implementation on stack </p>
 <ol>
    <li>let st = [];</li> 
       
@@ -62,7 +62,7 @@ Stacks-java-script
     <li> console.log('top element = ' + st[st.length - 1]);</li>
     <li> st.pop(); </li>
  </ol>
- </p>  
+ 
     
 
     

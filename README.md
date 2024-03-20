@@ -52,16 +52,16 @@ Stacks-java-script
 
 # 2.2 stack as array
 <p> 
-   <ol>
-   <li>let st = [];</li> *decleration of variable stack*
+<ol>
+   <li>let st = [];</li> 
       
     <li> st.push(10);</li>
     <li> st.push(30);</li>
-    <li> st.push(5); </li> *Top most element in stack*
+    <li> st.push(5); </li> 
 
-   <li> console.log('top element = ' + st[st.length - 1]);</li>
-   <li> st.pop(); </li>
-   </ol>
+    <li> console.log('top element = ' + st[st.length - 1]);</li>
+    <li> st.pop(); </li>
+ </ol>
  </p>  
     
 

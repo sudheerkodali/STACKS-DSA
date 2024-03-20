@@ -81,7 +81,7 @@ Stacks-java-script
 
 |  3  | [Using-stack-as-a-linked-list](#)   
 
-# 3.1 using as a linked list
+# 3.1 using as a linked list as a Stack
 ![using stack as a linked list](./StackasLinkedList/image1.png)
 
 | 4   |  [Using-stack-as-an-array](#)   

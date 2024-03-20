@@ -82,10 +82,13 @@ Stacks-java-script
 <li>O(1) <= push() <br>
     O(1) <= pop()  <br>
     O(1) <= Top()  <br>
- </li>   
+</li>   
  
-   
 ![using stack as a linked list](./StackasLinkedList/image1.png)
+
+# 3.2 using as a linked list as a Stack
+
+![using stack as a linked list](./StackasLinkedList/image2.png)
 
 | 4   |  [Using-stack-as-an-array](#)   
 

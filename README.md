@@ -42,9 +42,26 @@ Stacks-java-script
 |  2  | [Using-stack-as-an-array](#)   
 
 # 2.1 stack as array
+<p> what we are creating at the stack we are inserting at the end of the array </p>
+<p> Similarly, when we are inserting at the end(top) and delection at end stack(pop) Top most element of an array we are inserted at the end of the array  </p>
+<p> Insertion at top = inserction at end of the Array </P>
+<p> Delection at top = pop of operation of an Array </p>
+<p> Top most element means last element of an array </p> 
 ![Image of stack as an array](./usingStackanArray/image1.png)
 
 # 2.2 stack as array
+<p> let st = []; *decleration of variable stack*
+    st.push(10);
+    st.push(30);
+    st.push(5);  *Top most element in stack*
+
+    console,log('top element = ' + st[st.length - 1]);
+    st.pop();
+    
+
+    
+   
+   
 ![Image of stack as an array](./usingStackanArray/image2.png)
 
 |  3  | [Using-stack-as-a-linked-list](#)   

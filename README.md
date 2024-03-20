@@ -51,13 +51,18 @@ Stacks-java-script
 ![Image of stack as an array](./usingStackanArray/image1.png)
 
 # 2.2 stack as array
-<p> let st = []; *decleration of variable stack*
-    st.push(10);
-    st.push(30);
-    st.push(5);  *Top most element in stack*
+<p> 
+   <ol>
+   <li>let st = [];</li> *decleration of variable stack*
+      
+    <li> st.push(10);</li>
+    <li> st.push(30);</li>
+    <li> st.push(5); </li> *Top most element in stack*
 
-    console,log('top element = ' + st[st.length - 1]);
-    st.pop();
+   <li> console.log('top element = ' + st[st.length - 1]);</li>
+   <li> st.pop(); </li>
+   </ol>
+ </p>  
     
 
     

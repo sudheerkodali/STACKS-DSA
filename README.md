@@ -79,11 +79,16 @@ Stacks-java-script
 
 # 3.1 using as a linked list as a Stack
 <p> Linked list Stack represents in big O(1) </p>
-<li>O(1) <= push() <br>
-    O(1) <= pop()  <br>
-    O(1) <= Top()  <br>
-</li>   
- 
+<li> O(1) <= push() <br>
+     O(1) <= pop()  <br>
+     O(1) <= Top()  <br>
+</li> 
+<p> Using Linked list in Stack to implent the elements <p>
+   <li> HEAD: Null => Linked list as empty </li>
+   <li> HEAD: 10 : Null => 10 push Linked list </li>
+   <li> HEAD: 7 : 10 : Null => 7 push Linked list </li>
+   <li> Head: 9 : 7 : 9 : Null => 9 push Linked list </li>
+   
 ![using stack as a linked list](./StackasLinkedList/image1.png)
 
 # 3.2 using as a linked list as a Stack

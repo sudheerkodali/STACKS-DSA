@@ -80,8 +80,8 @@ Stacks-java-script
 # 3.1 using as a linked list as a Stack
 <p> Linked list Stack represents in big O(1) </p>
 <li> O(1) <= push() <br>
-      O(1) <= pop()  <br>
-      O(1) <= Top()  <br>
+<li> O(1) <= pop()  <br>
+<li> O(1) <= Top()  <br>
 </li> 
 <p> Using Linked list in Stack to implent the elements <p>
    <li> HEAD: Null => Linked list as empty </li>

@@ -87,11 +87,19 @@ Stacks-java-script
    <li> HEAD: Null => Linked list as empty </li>
    <li> HEAD: 10 : Null => 10 push Linked list </li>
    <li> HEAD: 7 : 10 : Null => 7 push Linked list </li>
-   <li> Head: 9 : 7 : 9 : Null => 9 push Linked list </li>
+   <li> Head: 9 : 7 : 10 : Null => 9 push Linked list </li>
    
 ![using stack as a linked list](./StackasLinkedList/image1.png)
 
 # 3.2 using as a linked list as a Stack
+<p> Linked List as a stack using POP from end of the list </p>
+<p> POP rom the list means comes out of the stack as LAST element </p> 
+<li> last element is 9 means pop(9) => HEAD [9] : [7] : [10] => Null </li>
+<li> last element is 7 means pop(7) =>  HEAD [] : [7] : [10] => Null </li>
+<li> last element is 10 means pop(10) => HEAD [] : [] : [10] => Null </li>
+<li> last element is   pop() => HEAD => Null </li>
+
+
 
 ![using stack as a linked list](./StackasLinkedList/image2.png)
 
